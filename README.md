@@ -2,6 +2,8 @@
 
 Easy-Note is a simple and responsive web application designed to help users manage their notes efficiently. With Easy-Note, you can add, delete, hide, and manage your notes seamlessly. This project is powered by Firebase for backend services.
 
+![Alt text](public/projectDemo.png)
+
 ## Features
 
 - **Add Notes**: Quickly add new notes to stay organized.
